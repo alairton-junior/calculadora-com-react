@@ -10,4 +10,4 @@
 <li>JS</li>
 
 <br/>
-<strong>Acesse o projeto: </strong> <a target="_blank" href="https://alairton-junior.github.io/calculadora-com-react/">Aqui</a>
+<strong>Acesse o projeto: </strong> <a href="https://alairton-junior.github.io/calculadora-com-react/" target="_blank">Aqui</a>
